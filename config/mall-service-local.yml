@@ -1,0 +1,3 @@
+DB_URL: jdbc:mysql://localhost:3306/mall-service?useSSL=false&allowPublicKeyRetrieval=true
+DB_USER: root
+DB_PASSWORD: root
